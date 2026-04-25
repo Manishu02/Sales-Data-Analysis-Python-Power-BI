@@ -45,7 +45,8 @@ It includes data cleaning, preprocessing, and an interactive dashboard to genera
 - Deal Size Distribution  
 
 📷 Dashboard Preview:  
-<img width="1667" height="754" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/dd49716c-72b7-457b-8acc-2b46e2d3c4b6" />
+<img width="1664" height="749" alt="Sales-Data-Analysis-Dahboard" src="https://github.com/user-attachments/assets/b8e11c88-9789-44db-b587-afb8563e24c5" />
+
 
 ---
 
